@@ -1,7 +1,7 @@
 # supervised-learning
 Module 20 Challenge - Credit Risk Classification - May 2023
 
-****ANALYSIS REPORT****
+### ANALYSIS REPORT ###
 
 ## Overview of the Analysis
 
@@ -52,8 +52,7 @@ With the actual high-risk loans (1), the number of incorrect predictions went do
 
 Machine Learning Model 2 performed better overall (higher balanced accuracy score) and in predicting high-risk loans (higher recall score). However, it is important to understand how the model would be used before recommending the model. Model 2 could be recommended if the goal is to identify high-risk loans and it is acceptable that not all such loans are identified by the model. In addition, it must be acceptable that some healthy loans are mistakenly identified as high-risk. There should be a second check of the high-risk loans identified to ensure they are in fact high-risk.
 
-
-****INSTRUCTIONS:****
+### INSTRUCTIONS ###
 The instructions for this Challenge are divided into the following subsections:
 1. Split the Data into Training and Testing Sets
 2. Create a Logistic Regression Model with the Original Data
